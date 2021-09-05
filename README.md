@@ -8,3 +8,4 @@ SORT BY Available Beds
 SORT BY NAME 
 SORT BY Rating and reviews 
 Print hospital of any specific city
+![](hospital1.png)
