@@ -8,4 +8,5 @@ SORT BY Available Beds
 SORT BY NAME 
 SORT BY Rating and reviews 
 Print hospital of any specific city
-![](hospital1.png)
+output:
+![](https://github.com/Gokulakrishnansekar/hospital_system_project/blob/main/hospital1.PNG?raw=true)
