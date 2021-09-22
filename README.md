@@ -15,5 +15,4 @@ To manage the Hospital Management System. Given data of Hospitals with the name 
 
 output:
 ![](https://github.com/Gokulakrishnansekar/hospital_system_project/blob/main/hospital1.PNG?raw=true)
-
 ![](https://github.com/Gokulakrishnansekar/hospital_system_project/blob/main/hospital2.PNG?raw=true)
